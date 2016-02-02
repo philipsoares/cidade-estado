@@ -1,0 +1,1962 @@
+[
+    {
+    "sigla": "AL",
+    "nome": "Alagoas",
+    "cidades": "ARAPIRACA"
+    },
+    {
+    "sigla": "AL",
+    "nome": "Alagoas",
+    "cidades": "MACEIO"
+    },
+    {
+    "sigla": "AL",
+    "nome": "Alagoas",
+    "cidades": "MACEIO"
+    },
+    {
+    "sigla": "AM",
+    "nome": "Amazonas",
+    "cidades": "MANAUS"
+    },
+    {
+    "sigla": "BA",
+    "nome": "Bahia",
+    "cidades": "CAMACARI"
+    },
+    {
+    "sigla": "BA",
+    "nome": "Bahia",
+    "cidades": "FEIRA DE SANTANA"
+    },
+    {
+    "sigla": "BA",
+    "nome": "Bahia",
+    "cidades": "ILHEUS"
+    },
+    {
+    "sigla": "BA",
+    "nome": "Bahia",
+    "cidades": "ITABUNA"
+    },
+    {
+    "sigla": "BA",
+    "nome": "Bahia",
+    "cidades": "LAURO DE FREITAS"
+    },
+    {
+    "sigla": "BA",
+    "nome": "Bahia",
+    "cidades": "SALVADOR"
+    },
+    {
+    "sigla": "BA",
+    "nome": "Bahia",
+    "cidades": "SALVADOR"
+    },
+    {
+    "sigla": "BA",
+    "nome": "Bahia",
+    "cidades": "SALVADOR"
+    },
+    {
+    "sigla": "BA",
+    "nome": "Bahia",
+    "cidades": "SALVADOR"
+    },
+    {
+    "sigla": "CE",
+    "nome": "Ceará",
+    "cidades": "FORTALEZA"
+    },
+    {
+    "sigla": "CE",
+    "nome": "Ceará",
+    "cidades": "FORTALEZA"
+    },
+    {
+    "sigla": "CE",
+    "nome": "Ceará",
+    "cidades": "FORTALEZA"
+    },
+    {
+    "sigla": "CE",
+    "nome": "Ceará",
+    "cidades": "SOBRAL"
+    },
+    {
+    "sigla": "ES",
+    "nome": "Espirito Santo",
+    "cidades": "CACHOEIRO ITAPEMIRIM"
+    },
+    {
+    "sigla": "ES",
+    "nome": "Espirito Santo",
+    "cidades": "CARIACICA"
+    },
+    {
+    "sigla": "ES",
+    "nome": "Espirito Santo",
+    "cidades": "VILA VELHA"
+    },
+    {
+    "sigla": "GO",
+    "nome": "Goiás",
+    "cidades": "ANAPOLIS"
+    },
+    {
+    "sigla": "GO",
+    "nome": "Goiás",
+    "cidades": "GOIANIA"
+    },
+    {
+    "sigla": "GO",
+    "nome": "Goiás",
+    "cidades": "GOIANIA"
+    },
+    {
+    "sigla": "MA",
+    "nome": "Maranhão",
+    "cidades": "IMPERATRIZ"
+    },
+    {
+    "sigla": "MG",
+    "nome": "Minas Gerais",
+    "cidades": "ARAGUARI"
+    },
+    {
+    "sigla": "MG",
+    "nome": "Minas Gerais",
+    "cidades": "ARAXA"
+    },
+    {
+    "sigla": "MG",
+    "nome": "Minas Gerais",
+    "cidades": "BARBACENA"
+    },
+    {
+    "sigla": "MG",
+    "nome": "Minas Gerais",
+    "cidades": "BELO HORIZONTE"
+    },
+    {
+    "sigla": "MG",
+    "nome": "Minas Gerais",
+    "cidades": "BELO HORIZONTE"
+    },
+    {
+    "sigla": "MG",
+    "nome": "Minas Gerais",
+    "cidades": "BELO HORIZONTE"
+    },
+    {
+    "sigla": "MG",
+    "nome": "Minas Gerais",
+    "cidades": "BELO HORIZONTE"
+    },
+    {
+    "sigla": "MG",
+    "nome": "Minas Gerais",
+    "cidades": "BELO HORIZONTE"
+    },
+    {
+    "sigla": "MG",
+    "nome": "Minas Gerais",
+    "cidades": "BELO HORIZONTE"
+    },
+    {
+    "sigla": "MG",
+    "nome": "Minas Gerais",
+    "cidades": "BELO HORIZONTE"
+    },
+    {
+    "sigla": "MG",
+    "nome": "Minas Gerais",
+    "cidades": "BELO HORIZONTE"
+    },
+    {
+    "sigla": "MG",
+    "nome": "Minas Gerais",
+    "cidades": "BELO HORIZONTE"
+    },
+    {
+    "sigla": "MG",
+    "nome": "Minas Gerais",
+    "cidades": "BETIM"
+    },
+    {
+    "sigla": "MG",
+    "nome": "Minas Gerais",
+    "cidades": "CAMPO BELO"
+    },
+    {
+    "sigla": "MG",
+    "nome": "Minas Gerais",
+    "cidades": "CONSELHEIRO LAFAIETE"
+    },
+    {
+    "sigla": "MG",
+    "nome": "Minas Gerais",
+    "cidades": "CONTAGEM"
+    },
+    {
+    "sigla": "MG",
+    "nome": "Minas Gerais",
+    "cidades": "CONTAGEM"
+    },
+    {
+    "sigla": "MG",
+    "nome": "Minas Gerais",
+    "cidades": "CONTAGEM"
+    },
+    {
+    "sigla": "MG",
+    "nome": "Minas Gerais",
+    "cidades": "CONTAGEM"
+    },
+    {
+    "sigla": "MG",
+    "nome": "Minas Gerais",
+    "cidades": "CORONEL FABRICIANO"
+    },
+    {
+    "sigla": "MG",
+    "nome": "Minas Gerais",
+    "cidades": "CRUZILIA"
+    },
+    {
+    "sigla": "MG",
+    "nome": "Minas Gerais",
+    "cidades": "CURVELO"
+    },
+    {
+    "sigla": "MG",
+    "nome": "Minas Gerais",
+    "cidades": "DIVINOPOLIS"
+    },
+    {
+    "sigla": "MG",
+    "nome": "Minas Gerais",
+    "cidades": "ELOI MENDES"
+    },
+    {
+    "sigla": "MG",
+    "nome": "Minas Gerais",
+    "cidades": "FORMIGA"
+    },
+    {
+    "sigla": "MG",
+    "nome": "Minas Gerais",
+    "cidades": "GOVERNADOR VALADARES"
+    },
+    {
+    "sigla": "MG",
+    "nome": "Minas Gerais",
+    "cidades": "IPATINGA"
+    },
+    {
+    "sigla": "MG",
+    "nome": "Minas Gerais",
+    "cidades": "IPATINGA"
+    },
+    {
+    "sigla": "MG",
+    "nome": "Minas Gerais",
+    "cidades": "IPATINGA"
+    },
+    {
+    "sigla": "MG",
+    "nome": "Minas Gerais",
+    "cidades": "ITABIRA"
+    },
+    {
+    "sigla": "MG",
+    "nome": "Minas Gerais",
+    "cidades": "ITABIRITO"
+    },
+    {
+    "sigla": "MG",
+    "nome": "Minas Gerais",
+    "cidades": "ITAUNA"
+    },
+    {
+    "sigla": "MG",
+    "nome": "Minas Gerais",
+    "cidades": "ITUIUTABA"
+    },
+    {
+    "sigla": "MG",
+    "nome": "Minas Gerais",
+    "cidades": "JOAO MONLEVADE"
+    },
+    {
+    "sigla": "MG",
+    "nome": "Minas Gerais",
+    "cidades": "JUIZ DE FORA"
+    },
+    {
+    "sigla": "MG",
+    "nome": "Minas Gerais",
+    "cidades": "JUIZ DE FORA"
+    },
+    {
+    "sigla": "MG",
+    "nome": "Minas Gerais",
+    "cidades": "JUIZ DE FORA"
+    },
+    {
+    "sigla": "MG",
+    "nome": "Minas Gerais",
+    "cidades": "LAVRAS"
+    },
+    {
+    "sigla": "MG",
+    "nome": "Minas Gerais",
+    "cidades": "MARIANA"
+    },
+    {
+    "sigla": "MG",
+    "nome": "Minas Gerais",
+    "cidades": "MONTES CLAROS"
+    },
+    {
+    "sigla": "MG",
+    "nome": "Minas Gerais",
+    "cidades": "NOVA LIMA"
+    },
+    {
+    "sigla": "MG",
+    "nome": "Minas Gerais",
+    "cidades": "OURO PRETO"
+    },
+    {
+    "sigla": "MG",
+    "nome": "Minas Gerais",
+    "cidades": "PARA DE MINAS"
+    },
+    {
+    "sigla": "MG",
+    "nome": "Minas Gerais",
+    "cidades": "PATOS DE MINAS"
+    },
+    {
+    "sigla": "MG",
+    "nome": "Minas Gerais",
+    "cidades": "PONTE NOVA"
+    },
+    {
+    "sigla": "MG",
+    "nome": "Minas Gerais",
+    "cidades": "SABARA"
+    },
+    {
+    "sigla": "MG",
+    "nome": "Minas Gerais",
+    "cidades": "SANTOS DUMONT"
+    },
+    {
+    "sigla": "MG",
+    "nome": "Minas Gerais",
+    "cidades": "SAO JOAO DEL REI"
+    },
+    {
+    "sigla": "MG",
+    "nome": "Minas Gerais",
+    "cidades": "SETE LAGOAS"
+    },
+    {
+    "sigla": "MG",
+    "nome": "Minas Gerais",
+    "cidades": "TIMOTEO"
+    },
+    {
+    "sigla": "MG",
+    "nome": "Minas Gerais",
+    "cidades": "TRES CORACOES"
+    },
+    {
+    "sigla": "MG",
+    "nome": "Minas Gerais",
+    "cidades": "UBA"
+    },
+    {
+    "sigla": "MG",
+    "nome": "Minas Gerais",
+    "cidades": "UBERABA"
+    },
+    {
+    "sigla": "MG",
+    "nome": "Minas Gerais",
+    "cidades": "UBERABA"
+    },
+    {
+    "sigla": "MG",
+    "nome": "Minas Gerais",
+    "cidades": "UBERLANDIA"
+    },
+    {
+    "sigla": "MG",
+    "nome": "Minas Gerais",
+    "cidades": "UBERLANDIA"
+    },
+    {
+    "sigla": "MS",
+    "nome": "Mato Grosso do Sul",
+    "cidades": "CAMPO GRANDE"
+    },
+    {
+    "sigla": "PA",
+    "nome": "Pará",
+    "cidades": "BELEM"
+    },
+    {
+    "sigla": "PA",
+    "nome": "Pará",
+    "cidades": "SANTAREM"
+    },
+    {
+    "sigla": "PB",
+    "nome": "Paraíba",
+    "cidades": "CAJAZEIRAS"
+    },
+    {
+    "sigla": "PB",
+    "nome": "Paraíba",
+    "cidades": "CAMPINA GRANDE"
+    },
+    {
+    "sigla": "PB",
+    "nome": "Paraíba",
+    "cidades": "CAMPINA GRANDE"
+    },
+    {
+    "sigla": "PB",
+    "nome": "Paraíba",
+    "cidades": "GUARABIRA"
+    },
+    {
+    "sigla": "PB",
+    "nome": "Paraíba",
+    "cidades": "JOAO PESSOA"
+    },
+    {
+    "sigla": "PB",
+    "nome": "Paraíba",
+    "cidades": "JOAO PESSOA"
+    },
+    {
+    "sigla": "PB",
+    "nome": "Paraíba",
+    "cidades": "JOAO PESSOA"
+    },
+    {
+    "sigla": "PB",
+    "nome": "Paraíba",
+    "cidades": "JOAO PESSOA"
+    },
+    {
+    "sigla": "PB",
+    "nome": "Paraíba",
+    "cidades": "PATOS"
+    },
+    {
+    "sigla": "PB",
+    "nome": "Paraíba",
+    "cidades": "SOUSA"
+    },
+    {
+    "sigla": "PE",
+    "nome": "Pernambuco",
+    "cidades": "ARARIPINA"
+    },
+    {
+    "sigla": "PE",
+    "nome": "Pernambuco",
+    "cidades": "ARCOVERDE"
+    },
+    {
+    "sigla": "PE",
+    "nome": "Pernambuco",
+    "cidades": "BOM CONSELHO"
+    },
+    {
+    "sigla": "PE",
+    "nome": "Pernambuco",
+    "cidades": "CABO DE SANTO AGOSTINHO"
+    },
+    {
+    "sigla": "PE",
+    "nome": "Pernambuco",
+    "cidades": "CAMARAGIBE"
+    },
+    {
+    "sigla": "PE",
+    "nome": "Pernambuco",
+    "cidades": "CARPINA"
+    },
+    {
+    "sigla": "PE",
+    "nome": "Pernambuco",
+    "cidades": "CARUARU"
+    },
+    {
+    "sigla": "PE",
+    "nome": "Pernambuco",
+    "cidades": "ESCADA"
+    },
+    {
+    "sigla": "PE",
+    "nome": "Pernambuco",
+    "cidades": "GARANHUNS"
+    },
+    {
+    "sigla": "PE",
+    "nome": "Pernambuco",
+    "cidades": "IGARASSU"
+    },
+    {
+    "sigla": "PE",
+    "nome": "Pernambuco",
+    "cidades": "LIMOEIRO"
+    },
+    {
+    "sigla": "PE",
+    "nome": "Pernambuco",
+    "cidades": "OLINDA"
+    },
+    {
+    "sigla": "PE",
+    "nome": "Pernambuco",
+    "cidades": "OURICURI"
+    },
+    {
+    "sigla": "PE",
+    "nome": "Pernambuco",
+    "cidades": "PAUDALHO"
+    },
+    {
+    "sigla": "PE",
+    "nome": "Pernambuco",
+    "cidades": "PAULISTA"
+    },
+    {
+    "sigla": "PE",
+    "nome": "Pernambuco",
+    "cidades": "PESQUEIRA"
+    },
+    {
+    "sigla": "PE",
+    "nome": "Pernambuco",
+    "cidades": "PETROLINA"
+    },
+    {
+    "sigla": "PE",
+    "nome": "Pernambuco",
+    "cidades": "RECIFE"
+    },
+    {
+    "sigla": "PE",
+    "nome": "Pernambuco",
+    "cidades": "RECIFE"
+    },
+    {
+    "sigla": "PE",
+    "nome": "Pernambuco",
+    "cidades": "RECIFE"
+    },
+    {
+    "sigla": "PE",
+    "nome": "Pernambuco",
+    "cidades": "RECIFE"
+    },
+    {
+    "sigla": "PE",
+    "nome": "Pernambuco",
+    "cidades": "RECIFE"
+    },
+    {
+    "sigla": "PE",
+    "nome": "Pernambuco",
+    "cidades": "RECIFE"
+    },
+    {
+    "sigla": "PE",
+    "nome": "Pernambuco",
+    "cidades": "RIBEIRAO"
+    },
+    {
+    "sigla": "PE",
+    "nome": "Pernambuco",
+    "cidades": "SALGUEIRO"
+    },
+    {
+    "sigla": "PE",
+    "nome": "Pernambuco",
+    "cidades": "SERRA TALHADA"
+    },
+    {
+    "sigla": "PE",
+    "nome": "Pernambuco",
+    "cidades": "STA MARIA BOA VISTA"
+    },
+    {
+    "sigla": "PE",
+    "nome": "Pernambuco",
+    "cidades": "SURUBIM"
+    },
+    {
+    "sigla": "PI",
+    "nome": "Piauí",
+    "cidades": "TERESINA"
+    },
+    {
+    "sigla": "PI",
+    "nome": "Piauí",
+    "cidades": "TERESINA"
+    },
+    {
+    "sigla": "PR",
+    "nome": "Paraná",
+    "cidades": "APUCARANA"
+    },
+    {
+    "sigla": "PR",
+    "nome": "Paraná",
+    "cidades": "CAMPO LARGO"
+    },
+    {
+    "sigla": "PR",
+    "nome": "Paraná",
+    "cidades": "CAMPO MOURAO"
+    },
+    {
+    "sigla": "PR",
+    "nome": "Paraná",
+    "cidades": "CURITIBA"
+    },
+    {
+    "sigla": "PR",
+    "nome": "Paraná",
+    "cidades": "CURITIBA"
+    },
+    {
+    "sigla": "PR",
+    "nome": "Paraná",
+    "cidades": "FRANCISCO BELTRAO"
+    },
+    {
+    "sigla": "PR",
+    "nome": "Paraná",
+    "cidades": "GUARAPUAVA"
+    },
+    {
+    "sigla": "PR",
+    "nome": "Paraná",
+    "cidades": "LONDRINA"
+    },
+    {
+    "sigla": "PR",
+    "nome": "Paraná",
+    "cidades": "MARINGA"
+    },
+    {
+    "sigla": "PR",
+    "nome": "Paraná",
+    "cidades": "PONTA GROSSA"
+    },
+    {
+    "sigla": "RJ",
+    "nome": "Rio de Janeiro",
+    "cidades": "ANGRA DOS REIS"
+    },
+    {
+    "sigla": "RJ",
+    "nome": "Rio de Janeiro",
+    "cidades": "ARARUAMA"
+    },
+    {
+    "sigla": "RJ",
+    "nome": "Rio de Janeiro",
+    "cidades": "BARRA DO PIRAI"
+    },
+    {
+    "sigla": "RJ",
+    "nome": "Rio de Janeiro",
+    "cidades": "BARRA MANSA"
+    },
+    {
+    "sigla": "RJ",
+    "nome": "Rio de Janeiro",
+    "cidades": "BELFORD ROXO"
+    },
+    {
+    "sigla": "RJ",
+    "nome": "Rio de Janeiro",
+    "cidades": "CABO FRIO"
+    },
+    {
+    "sigla": "RJ",
+    "nome": "Rio de Janeiro",
+    "cidades": "CAMPOS DOS GOYTACAZES"
+    },
+    {
+    "sigla": "RJ",
+    "nome": "Rio de Janeiro",
+    "cidades": "CAMPOS DOS GOYTACAZES"
+    },
+    {
+    "sigla": "RJ",
+    "nome": "Rio de Janeiro",
+    "cidades": "DUQUE DE CAXIAS"
+    },
+    {
+    "sigla": "RJ",
+    "nome": "Rio de Janeiro",
+    "cidades": "DUQUE DE CAXIAS"
+    },
+    {
+    "sigla": "RJ",
+    "nome": "Rio de Janeiro",
+    "cidades": "DUQUE DE CAXIAS"
+    },
+    {
+    "sigla": "RJ",
+    "nome": "Rio de Janeiro",
+    "cidades": "ITABORAI"
+    },
+    {
+    "sigla": "RJ",
+    "nome": "Rio de Janeiro",
+    "cidades": "MACAE"
+    },
+    {
+    "sigla": "RJ",
+    "nome": "Rio de Janeiro",
+    "cidades": "MARICA"
+    },
+    {
+    "sigla": "RJ",
+    "nome": "Rio de Janeiro",
+    "cidades": "MESQUITA"
+    },
+    {
+    "sigla": "RJ",
+    "nome": "Rio de Janeiro",
+    "cidades": "NILOPOLIS"
+    },
+    {
+    "sigla": "RJ",
+    "nome": "Rio de Janeiro",
+    "cidades": "NITEROI"
+    },
+    {
+    "sigla": "RJ",
+    "nome": "Rio de Janeiro",
+    "cidades": "NITEROI"
+    },
+    {
+    "sigla": "RJ",
+    "nome": "Rio de Janeiro",
+    "cidades": "NITEROI"
+    },
+    {
+    "sigla": "RJ",
+    "nome": "Rio de Janeiro",
+    "cidades": "NITEROI"
+    },
+    {
+    "sigla": "RJ",
+    "nome": "Rio de Janeiro",
+    "cidades": "NOVA FRIBURGO"
+    },
+    {
+    "sigla": "RJ",
+    "nome": "Rio de Janeiro",
+    "cidades": "NOVA IGUACU"
+    },
+    {
+    "sigla": "RJ",
+    "nome": "Rio de Janeiro",
+    "cidades": "NOVA IGUACU"
+    },
+    {
+    "sigla": "RJ",
+    "nome": "Rio de Janeiro",
+    "cidades": "NOVA IGUACU"
+    },
+    {
+    "sigla": "RJ",
+    "nome": "Rio de Janeiro",
+    "cidades": "PARACAMBI"
+    },
+    {
+    "sigla": "RJ",
+    "nome": "Rio de Janeiro",
+    "cidades": "PETROPOLIS"
+    },
+    {
+    "sigla": "RJ",
+    "nome": "Rio de Janeiro",
+    "cidades": "PETROPOLIS"
+    },
+    {
+    "sigla": "RJ",
+    "nome": "Rio de Janeiro",
+    "cidades": "RIO BONITO"
+    },
+    {
+    "sigla": "RJ",
+    "nome": "Rio de Janeiro",
+    "cidades": "RIO DE JANEIRO"
+    },
+    {
+    "sigla": "RJ",
+    "nome": "Rio de Janeiro",
+    "cidades": "RIO DE JANEIRO"
+    },
+    {
+    "sigla": "RJ",
+    "nome": "Rio de Janeiro",
+    "cidades": "RIO DE JANEIRO"
+    },
+    {
+    "sigla": "RJ",
+    "nome": "Rio de Janeiro",
+    "cidades": "RIO DE JANEIRO"
+    },
+    {
+    "sigla": "RJ",
+    "nome": "Rio de Janeiro",
+    "cidades": "RIO DE JANEIRO"
+    },
+    {
+    "sigla": "RJ",
+    "nome": "Rio de Janeiro",
+    "cidades": "RIO DE JANEIRO"
+    },
+    {
+    "sigla": "RJ",
+    "nome": "Rio de Janeiro",
+    "cidades": "RIO DE JANEIRO"
+    },
+    {
+    "sigla": "RJ",
+    "nome": "Rio de Janeiro",
+    "cidades": "RIO DE JANEIRO"
+    },
+    {
+    "sigla": "RJ",
+    "nome": "Rio de Janeiro",
+    "cidades": "RIO DE JANEIRO"
+    },
+    {
+    "sigla": "RJ",
+    "nome": "Rio de Janeiro",
+    "cidades": "RIO DE JANEIRO"
+    },
+    {
+    "sigla": "RJ",
+    "nome": "Rio de Janeiro",
+    "cidades": "RIO DE JANEIRO"
+    },
+    {
+    "sigla": "RJ",
+    "nome": "Rio de Janeiro",
+    "cidades": "RIO DE JANEIRO"
+    },
+    {
+    "sigla": "RJ",
+    "nome": "Rio de Janeiro",
+    "cidades": "RIO DE JANEIRO"
+    },
+    {
+    "sigla": "RJ",
+    "nome": "Rio de Janeiro",
+    "cidades": "RIO DE JANEIRO"
+    },
+    {
+    "sigla": "RJ",
+    "nome": "Rio de Janeiro",
+    "cidades": "RIO DE JANEIRO"
+    },
+    {
+    "sigla": "RJ",
+    "nome": "Rio de Janeiro",
+    "cidades": "RIO DE JANEIRO"
+    },
+    {
+    "sigla": "RJ",
+    "nome": "Rio de Janeiro",
+    "cidades": "RIO DE JANEIRO"
+    },
+    {
+    "sigla": "RJ",
+    "nome": "Rio de Janeiro",
+    "cidades": "RIO DE JANEIRO"
+    },
+    {
+    "sigla": "RJ",
+    "nome": "Rio de Janeiro",
+    "cidades": "RIO DE JANEIRO"
+    },
+    {
+    "sigla": "RJ",
+    "nome": "Rio de Janeiro",
+    "cidades": "RIO DE JANEIRO"
+    },
+    {
+    "sigla": "RJ",
+    "nome": "Rio de Janeiro",
+    "cidades": "RIO DE JANEIRO"
+    },
+    {
+    "sigla": "RJ",
+    "nome": "Rio de Janeiro",
+    "cidades": "RIO DE JANEIRO"
+    },
+    {
+    "sigla": "RJ",
+    "nome": "Rio de Janeiro",
+    "cidades": "RIO DE JANEIRO"
+    },
+    {
+    "sigla": "RJ",
+    "nome": "Rio de Janeiro",
+    "cidades": "RIO DE JANEIRO"
+    },
+    {
+    "sigla": "RJ",
+    "nome": "Rio de Janeiro",
+    "cidades": "RIO DE JANEIRO"
+    },
+    {
+    "sigla": "RJ",
+    "nome": "Rio de Janeiro",
+    "cidades": "RIO DE JANEIRO"
+    },
+    {
+    "sigla": "RJ",
+    "nome": "Rio de Janeiro",
+    "cidades": "RIO DE JANEIRO"
+    },
+    {
+    "sigla": "RJ",
+    "nome": "Rio de Janeiro",
+    "cidades": "RIO DE JANEIRO"
+    },
+    {
+    "sigla": "RJ",
+    "nome": "Rio de Janeiro",
+    "cidades": "RIO DE JANEIRO"
+    },
+    {
+    "sigla": "RJ",
+    "nome": "Rio de Janeiro",
+    "cidades": "RIO DE JANEIRO"
+    },
+    {
+    "sigla": "RJ",
+    "nome": "Rio de Janeiro",
+    "cidades": "RIO DE JANEIRO"
+    },
+    {
+    "sigla": "RJ",
+    "nome": "Rio de Janeiro",
+    "cidades": "RIO DE JANEIRO"
+    },
+    {
+    "sigla": "RJ",
+    "nome": "Rio de Janeiro",
+    "cidades": "RIO DE JANEIRO"
+    },
+    {
+    "sigla": "RJ",
+    "nome": "Rio de Janeiro",
+    "cidades": "RIO DE JANEIRO"
+    },
+    {
+    "sigla": "RJ",
+    "nome": "Rio de Janeiro",
+    "cidades": "RIO DE JANEIRO"
+    },
+    {
+    "sigla": "RJ",
+    "nome": "Rio de Janeiro",
+    "cidades": "RIO DE JANEIRO"
+    },
+    {
+    "sigla": "RJ",
+    "nome": "Rio de Janeiro",
+    "cidades": "RIO DE JANEIRO"
+    },
+    {
+    "sigla": "RJ",
+    "nome": "Rio de Janeiro",
+    "cidades": "RIO DE JANEIRO"
+    },
+    {
+    "sigla": "RJ",
+    "nome": "Rio de Janeiro",
+    "cidades": "RIO DE JANEIRO"
+    },
+    {
+    "sigla": "RJ",
+    "nome": "Rio de Janeiro",
+    "cidades": "RIO DE JANEIRO"
+    },
+    {
+    "sigla": "RJ",
+    "nome": "Rio de Janeiro",
+    "cidades": "RIO DE JANEIRO"
+    },
+    {
+    "sigla": "RJ",
+    "nome": "Rio de Janeiro",
+    "cidades": "RIO DE JANEIRO"
+    },
+    {
+    "sigla": "RJ",
+    "nome": "Rio de Janeiro",
+    "cidades": "RIO DE JANEIRO"
+    },
+    {
+    "sigla": "RJ",
+    "nome": "Rio de Janeiro",
+    "cidades": "RIO DE JANEIRO"
+    },
+    {
+    "sigla": "RJ",
+    "nome": "Rio de Janeiro",
+    "cidades": "SAO GONCALO"
+    },
+    {
+    "sigla": "RJ",
+    "nome": "Rio de Janeiro",
+    "cidades": "SAO GONCALO"
+    },
+    {
+    "sigla": "RJ",
+    "nome": "Rio de Janeiro",
+    "cidades": "SAO JOAO DE MERITI"
+    },
+    {
+    "sigla": "RJ",
+    "nome": "Rio de Janeiro",
+    "cidades": "SAO JOAO DE MERITI"
+    },
+    {
+    "sigla": "RJ",
+    "nome": "Rio de Janeiro",
+    "cidades": "TERESOPOLIS"
+    },
+    {
+    "sigla": "RJ",
+    "nome": "Rio de Janeiro",
+    "cidades": "TERESOPOLIS"
+    },
+    {
+    "sigla": "RJ",
+    "nome": "Rio de Janeiro",
+    "cidades": "TRES RIOS"
+    },
+    {
+    "sigla": "RJ",
+    "nome": "Rio de Janeiro",
+    "cidades": "VALENCA"
+    },
+    {
+    "sigla": "RJ",
+    "nome": "Rio de Janeiro",
+    "cidades": "VOLTA REDONDA"
+    },
+    {
+    "sigla": "RJ",
+    "nome": "Rio de Janeiro",
+    "cidades": "VOLTA REDONDA"
+    },
+    {
+    "sigla": "RJ",
+    "nome": "Rio de Janeiro",
+    "cidades": "VOLTA REDONDA"
+    },
+    {
+    "sigla": "RN",
+    "nome": "Rio Grande do Norte",
+    "cidades": "MOSSORO"
+    },
+    {
+    "sigla": "RN",
+    "nome": "Rio Grande do Norte",
+    "cidades": "NATAL"
+    },
+    {
+    "sigla": "RS",
+    "nome": "Rio Grande do Sul",
+    "cidades": "BAGE"
+    },
+    {
+    "sigla": "RS",
+    "nome": "Rio Grande do Sul",
+    "cidades": "CAMAQUA"
+    },
+    {
+    "sigla": "RS",
+    "nome": "Rio Grande do Sul",
+    "cidades": "CANGUCU"
+    },
+    {
+    "sigla": "RS",
+    "nome": "Rio Grande do Sul",
+    "cidades": "CAXIAS DO SUL"
+    },
+    {
+    "sigla": "RS",
+    "nome": "Rio Grande do Sul",
+    "cidades": "CAXIAS DO SUL"
+    },
+    {
+    "sigla": "RS",
+    "nome": "Rio Grande do Sul",
+    "cidades": "PASSO FUNDO"
+    },
+    {
+    "sigla": "RS",
+    "nome": "Rio Grande do Sul",
+    "cidades": "PELOTAS"
+    },
+    {
+    "sigla": "RS",
+    "nome": "Rio Grande do Sul",
+    "cidades": "PELOTAS"
+    },
+    {
+    "sigla": "RS",
+    "nome": "Rio Grande do Sul",
+    "cidades": "PORTO ALEGRE"
+    },
+    {
+    "sigla": "RS",
+    "nome": "Rio Grande do Sul",
+    "cidades": "RIO GRANDE"
+    },
+    {
+    "sigla": "RS",
+    "nome": "Rio Grande do Sul",
+    "cidades": "RIO GRANDE"
+    },
+    {
+    "sigla": "RS",
+    "nome": "Rio Grande do Sul",
+    "cidades": "SANTA MARIA"
+    },
+    {
+    "sigla": "RS",
+    "nome": "Rio Grande do Sul",
+    "cidades": "SAO LEOPOLDO"
+    },
+    {
+    "sigla": "RS",
+    "nome": "Rio Grande do Sul",
+    "cidades": "SAO LOURENCO DO SUL"
+    },
+    {
+    "sigla": "RS",
+    "nome": "Rio Grande do Sul",
+    "cidades": "SAPIRANGA"
+    },
+    {
+    "sigla": "RS",
+    "nome": "Rio Grande do Sul",
+    "cidades": "SAPUCAIA DO SUL"
+    },
+    {
+    "sigla": "RS",
+    "nome": "Rio Grande do Sul",
+    "cidades": "VENANCIO AIRES"
+    },
+    {
+    "sigla": "SC",
+    "nome": "Santa Catarina",
+    "cidades": "BRUSQUE"
+    },
+    {
+    "sigla": "SC",
+    "nome": "Santa Catarina",
+    "cidades": "CONCORDIA"
+    },
+    {
+    "sigla": "SC",
+    "nome": "Santa Catarina",
+    "cidades": "ITAJAI"
+    },
+    {
+    "sigla": "SC",
+    "nome": "Santa Catarina",
+    "cidades": "JARAGUA DO SUL"
+    },
+    {
+    "sigla": "SC",
+    "nome": "Santa Catarina",
+    "cidades": "JOINVILLE"
+    },
+    {
+    "sigla": "SC",
+    "nome": "Santa Catarina",
+    "cidades": "LAGES"
+    },
+    {
+    "sigla": "SC",
+    "nome": "Santa Catarina",
+    "cidades": "LAGES"
+    },
+    {
+    "sigla": "SC",
+    "nome": "Santa Catarina",
+    "cidades": "TUBARAO"
+    },
+    {
+    "sigla": "SP",
+    "nome": "São Paulo",
+    "cidades": "AMERICANA"
+    },
+    {
+    "sigla": "SP",
+    "nome": "São Paulo",
+    "cidades": "AMERICANA"
+    },
+    {
+    "sigla": "SP",
+    "nome": "São Paulo",
+    "cidades": "ANDRADINA"
+    },
+    {
+    "sigla": "SP",
+    "nome": "São Paulo",
+    "cidades": "ARACATUBA"
+    },
+    {
+    "sigla": "SP",
+    "nome": "São Paulo",
+    "cidades": "ARARAQUARA"
+    },
+    {
+    "sigla": "SP",
+    "nome": "São Paulo",
+    "cidades": "ARARAS"
+    },
+    {
+    "sigla": "SP",
+    "nome": "São Paulo",
+    "cidades": "ASSIS"
+    },
+    {
+    "sigla": "SP",
+    "nome": "São Paulo",
+    "cidades": "ATIBAIA"
+    },
+    {
+    "sigla": "SP",
+    "nome": "São Paulo",
+    "cidades": "AVARE"
+    },
+    {
+    "sigla": "SP",
+    "nome": "São Paulo",
+    "cidades": "BARRETOS"
+    },
+    {
+    "sigla": "SP",
+    "nome": "São Paulo",
+    "cidades": "BAURU"
+    },
+    {
+    "sigla": "SP",
+    "nome": "São Paulo",
+    "cidades": "BAURU"
+    },
+    {
+    "sigla": "SP",
+    "nome": "São Paulo",
+    "cidades": "BIRIGUI"
+    },
+    {
+    "sigla": "SP",
+    "nome": "São Paulo",
+    "cidades": "BOTUCATU"
+    },
+    {
+    "sigla": "SP",
+    "nome": "São Paulo",
+    "cidades": "BRAGANCA PAULISTA"
+    },
+    {
+    "sigla": "SP",
+    "nome": "São Paulo",
+    "cidades": "BRAGANCA PAULISTA"
+    },
+    {
+    "sigla": "SP",
+    "nome": "São Paulo",
+    "cidades": "CACAPAVA"
+    },
+    {
+    "sigla": "SP",
+    "nome": "São Paulo",
+    "cidades": "CACAPAVA"
+    },
+    {
+    "sigla": "SP",
+    "nome": "São Paulo",
+    "cidades": "CAMPINAS"
+    },
+    {
+    "sigla": "SP",
+    "nome": "São Paulo",
+    "cidades": "CAMPINAS"
+    },
+    {
+    "sigla": "SP",
+    "nome": "São Paulo",
+    "cidades": "CAMPINAS"
+    },
+    {
+    "sigla": "SP",
+    "nome": "São Paulo",
+    "cidades": "CAMPINAS"
+    },
+    {
+    "sigla": "SP",
+    "nome": "São Paulo",
+    "cidades": "CAMPINAS"
+    },
+    {
+    "sigla": "SP",
+    "nome": "São Paulo",
+    "cidades": "CARAPICUIBA"
+    },
+    {
+    "sigla": "SP",
+    "nome": "São Paulo",
+    "cidades": "CRUZEIRO"
+    },
+    {
+    "sigla": "SP",
+    "nome": "São Paulo",
+    "cidades": "CUBATAO"
+    },
+    {
+    "sigla": "SP",
+    "nome": "São Paulo",
+    "cidades": "CUBATAO"
+    },
+    {
+    "sigla": "SP",
+    "nome": "São Paulo",
+    "cidades": "CUNHA"
+    },
+    {
+    "sigla": "SP",
+    "nome": "São Paulo",
+    "cidades": "DIADEMA"
+    },
+    {
+    "sigla": "SP",
+    "nome": "São Paulo",
+    "cidades": "DIADEMA"
+    },
+    {
+    "sigla": "SP",
+    "nome": "São Paulo",
+    "cidades": "DRACENA"
+    },
+    {
+    "sigla": "SP",
+    "nome": "São Paulo",
+    "cidades": "FERNANDOPOLIS"
+    },
+    {
+    "sigla": "SP",
+    "nome": "São Paulo",
+    "cidades": "FERRAZ VASCONCELOS"
+    },
+    {
+    "sigla": "SP",
+    "nome": "São Paulo",
+    "cidades": "FRANCA"
+    },
+    {
+    "sigla": "SP",
+    "nome": "São Paulo",
+    "cidades": "GUARATINGUETA"
+    },
+    {
+    "sigla": "SP",
+    "nome": "São Paulo",
+    "cidades": "GUARUJA"
+    },
+    {
+    "sigla": "SP",
+    "nome": "São Paulo",
+    "cidades": "GUARUJA"
+    },
+    {
+    "sigla": "SP",
+    "nome": "São Paulo",
+    "cidades": "GUARULHOS"
+    },
+    {
+    "sigla": "SP",
+    "nome": "São Paulo",
+    "cidades": "GUARULHOS"
+    },
+    {
+    "sigla": "SP",
+    "nome": "São Paulo",
+    "cidades": "INDAIATUBA"
+    },
+    {
+    "sigla": "SP",
+    "nome": "São Paulo",
+    "cidades": "INDAIATUBA"
+    },
+    {
+    "sigla": "SP",
+    "nome": "São Paulo",
+    "cidades": "ITAPETININGA"
+    },
+    {
+    "sigla": "SP",
+    "nome": "São Paulo",
+    "cidades": "ITAPIRA"
+    },
+    {
+    "sigla": "SP",
+    "nome": "São Paulo",
+    "cidades": "ITAQUAQUECETUBA"
+    },
+    {
+    "sigla": "SP",
+    "nome": "São Paulo",
+    "cidades": "ITATIBA"
+    },
+    {
+    "sigla": "SP",
+    "nome": "São Paulo",
+    "cidades": "ITU"
+    },
+    {
+    "sigla": "SP",
+    "nome": "São Paulo",
+    "cidades": "JACAREI"
+    },
+    {
+    "sigla": "SP",
+    "nome": "São Paulo",
+    "cidades": "JACAREI"
+    },
+    {
+    "sigla": "SP",
+    "nome": "São Paulo",
+    "cidades": "JAU"
+    },
+    {
+    "sigla": "SP",
+    "nome": "São Paulo",
+    "cidades": "JUNDIAI"
+    },
+    {
+    "sigla": "SP",
+    "nome": "São Paulo",
+    "cidades": "JUNDIAI"
+    },
+    {
+    "sigla": "SP",
+    "nome": "São Paulo",
+    "cidades": "JUNDIAI"
+    },
+    {
+    "sigla": "SP",
+    "nome": "São Paulo",
+    "cidades": "JUNDIAI"
+    },
+    {
+    "sigla": "SP",
+    "nome": "São Paulo",
+    "cidades": "LENCOIS PAULISTA"
+    },
+    {
+    "sigla": "SP",
+    "nome": "São Paulo",
+    "cidades": "LIMEIRA"
+    },
+    {
+    "sigla": "SP",
+    "nome": "São Paulo",
+    "cidades": "LIMEIRA"
+    },
+    {
+    "sigla": "SP",
+    "nome": "São Paulo",
+    "cidades": "LORENA"
+    },
+    {
+    "sigla": "SP",
+    "nome": "São Paulo",
+    "cidades": "MARILIA"
+    },
+    {
+    "sigla": "SP",
+    "nome": "São Paulo",
+    "cidades": "MAUA"
+    },
+    {
+    "sigla": "SP",
+    "nome": "São Paulo",
+    "cidades": "MAUA"
+    },
+    {
+    "sigla": "SP",
+    "nome": "São Paulo",
+    "cidades": "MOGI DAS CRUZES"
+    },
+    {
+    "sigla": "SP",
+    "nome": "São Paulo",
+    "cidades": "MOGI DAS CRUZES"
+    },
+    {
+    "sigla": "SP",
+    "nome": "São Paulo",
+    "cidades": "MOGI-GUACU"
+    },
+    {
+    "sigla": "SP",
+    "nome": "São Paulo",
+    "cidades": "MOGI-GUACU"
+    },
+    {
+    "sigla": "SP",
+    "nome": "São Paulo",
+    "cidades": "OSASCO"
+    },
+    {
+    "sigla": "SP",
+    "nome": "São Paulo",
+    "cidades": "OURINHOS"
+    },
+    {
+    "sigla": "SP",
+    "nome": "São Paulo",
+    "cidades": "PIRACICABA"
+    },
+    {
+    "sigla": "SP",
+    "nome": "São Paulo",
+    "cidades": "PIRACICABA"
+    },
+    {
+    "sigla": "SP",
+    "nome": "São Paulo",
+    "cidades": "PIRACICABA"
+    },
+    {
+    "sigla": "SP",
+    "nome": "São Paulo",
+    "cidades": "PIRASSUNUNGA"
+    },
+    {
+    "sigla": "SP",
+    "nome": "São Paulo",
+    "cidades": "PRAIA GRANDE"
+    },
+    {
+    "sigla": "SP",
+    "nome": "São Paulo",
+    "cidades": "PRESIDENTE PRUDENTE"
+    },
+    {
+    "sigla": "SP",
+    "nome": "São Paulo",
+    "cidades": "RIBEIRAO PIRES"
+    },
+    {
+    "sigla": "SP",
+    "nome": "São Paulo",
+    "cidades": "RIBEIRAO PIRES"
+    },
+    {
+    "sigla": "SP",
+    "nome": "São Paulo",
+    "cidades": "RIBEIRAO PRETO"
+    },
+    {
+    "sigla": "SP",
+    "nome": "São Paulo",
+    "cidades": "RIBEIRAO PRETO"
+    },
+    {
+    "sigla": "SP",
+    "nome": "São Paulo",
+    "cidades": "RIBEIRAO PRETO"
+    },
+    {
+    "sigla": "SP",
+    "nome": "São Paulo",
+    "cidades": "RIO CLARO"
+    },
+    {
+    "sigla": "SP",
+    "nome": "São Paulo",
+    "cidades": "SALTO"
+    },
+    {
+    "sigla": "SP",
+    "nome": "São Paulo",
+    "cidades": "SANTA BARBARA D OESTE"
+    },
+    {
+    "sigla": "SP",
+    "nome": "São Paulo",
+    "cidades": "SANTA BARBARA D OESTE"
+    },
+    {
+    "sigla": "SP",
+    "nome": "São Paulo",
+    "cidades": "SANTO ANDRE"
+    },
+    {
+    "sigla": "SP",
+    "nome": "São Paulo",
+    "cidades": "SANTO ANDRE"
+    },
+    {
+    "sigla": "SP",
+    "nome": "São Paulo",
+    "cidades": "SANTO ANDRE"
+    },
+    {
+    "sigla": "SP",
+    "nome": "São Paulo",
+    "cidades": "SANTO ANDRE"
+    },
+    {
+    "sigla": "SP",
+    "nome": "São Paulo",
+    "cidades": "SANTO ANDRE"
+    },
+    {
+    "sigla": "SP",
+    "nome": "São Paulo",
+    "cidades": "SANTO ANDRE"
+    },
+    {
+    "sigla": "SP",
+    "nome": "São Paulo",
+    "cidades": "SANTOS"
+    },
+    {
+    "sigla": "SP",
+    "nome": "São Paulo",
+    "cidades": "SANTOS"
+    },
+    {
+    "sigla": "SP",
+    "nome": "São Paulo",
+    "cidades": "SANTOS"
+    },
+    {
+    "sigla": "SP",
+    "nome": "São Paulo",
+    "cidades": "SANTOS"
+    },
+    {
+    "sigla": "SP",
+    "nome": "São Paulo",
+    "cidades": "SANTOS"
+    },
+    {
+    "sigla": "SP",
+    "nome": "São Paulo",
+    "cidades": "SANTOS"
+    },
+    {
+    "sigla": "SP",
+    "nome": "São Paulo",
+    "cidades": "SAO BERNARDO DO CAMPO"
+    },
+    {
+    "sigla": "SP",
+    "nome": "São Paulo",
+    "cidades": "SAO BERNARDO DO CAMPO"
+    },
+    {
+    "sigla": "SP",
+    "nome": "São Paulo",
+    "cidades": "SAO CAETANO DO SUL"
+    },
+    {
+    "sigla": "SP",
+    "nome": "São Paulo",
+    "cidades": "SAO CARLOS"
+    },
+    {
+    "sigla": "SP",
+    "nome": "São Paulo",
+    "cidades": "SAO JOSE DO RIO PRETO"
+    },
+    {
+    "sigla": "SP",
+    "nome": "São Paulo",
+    "cidades": "SAO JOSE DOS CAMPOS"
+    },
+    {
+    "sigla": "SP",
+    "nome": "São Paulo",
+    "cidades": "SAO PAULO"
+    },
+    {
+    "sigla": "SP",
+    "nome": "São Paulo",
+    "cidades": "SAO PAULO"
+    },
+    {
+    "sigla": "SP",
+    "nome": "São Paulo",
+    "cidades": "SAO PAULO"
+    },
+    {
+    "sigla": "SP",
+    "nome": "São Paulo",
+    "cidades": "SAO PAULO"
+    },
+    {
+    "sigla": "SP",
+    "nome": "São Paulo",
+    "cidades": "SAO PAULO"
+    },
+    {
+    "sigla": "SP",
+    "nome": "São Paulo",
+    "cidades": "SAO PAULO"
+    },
+    {
+    "sigla": "SP",
+    "nome": "São Paulo",
+    "cidades": "SAO PAULO"
+    },
+    {
+    "sigla": "SP",
+    "nome": "São Paulo",
+    "cidades": "SAO PAULO"
+    },
+    {
+    "sigla": "SP",
+    "nome": "São Paulo",
+    "cidades": "SAO PAULO"
+    },
+    {
+    "sigla": "SP",
+    "nome": "São Paulo",
+    "cidades": "SAO PAULO"
+    },
+    {
+    "sigla": "SP",
+    "nome": "São Paulo",
+    "cidades": "SAO PAULO"
+    },
+    {
+    "sigla": "SP",
+    "nome": "São Paulo",
+    "cidades": "SAO PAULO"
+    },
+    {
+    "sigla": "SP",
+    "nome": "São Paulo",
+    "cidades": "SAO PAULO"
+    },
+    {
+    "sigla": "SP",
+    "nome": "São Paulo",
+    "cidades": "SAO PAULO"
+    },
+    {
+    "sigla": "SP",
+    "nome": "São Paulo",
+    "cidades": "SAO PAULO"
+    },
+    {
+    "sigla": "SP",
+    "nome": "São Paulo",
+    "cidades": "SAO PAULO"
+    },
+    {
+    "sigla": "SP",
+    "nome": "São Paulo",
+    "cidades": "SAO PAULO"
+    },
+    {
+    "sigla": "SP",
+    "nome": "São Paulo",
+    "cidades": "SAO PAULO"
+    },
+    {
+    "sigla": "SP",
+    "nome": "São Paulo",
+    "cidades": "SAO PAULO"
+    },
+    {
+    "sigla": "SP",
+    "nome": "São Paulo",
+    "cidades": "SAO PAULO"
+    },
+    {
+    "sigla": "SP",
+    "nome": "São Paulo",
+    "cidades": "SAO PAULO"
+    },
+    {
+    "sigla": "SP",
+    "nome": "São Paulo",
+    "cidades": "SAO PAULO"
+    },
+    {
+    "sigla": "SP",
+    "nome": "São Paulo",
+    "cidades": "SAO PAULO"
+    },
+    {
+    "sigla": "SP",
+    "nome": "São Paulo",
+    "cidades": "SAO PAULO"
+    },
+    {
+    "sigla": "SP",
+    "nome": "São Paulo",
+    "cidades": "SAO PAULO"
+    },
+    {
+    "sigla": "SP",
+    "nome": "São Paulo",
+    "cidades": "SAO PAULO"
+    },
+    {
+    "sigla": "SP",
+    "nome": "São Paulo",
+    "cidades": "SAO PAULO"
+    },
+    {
+    "sigla": "SP",
+    "nome": "São Paulo",
+    "cidades": "SAO PAULO"
+    },
+    {
+    "sigla": "SP",
+    "nome": "São Paulo",
+    "cidades": "SAO PAULO"
+    },
+    {
+    "sigla": "SP",
+    "nome": "São Paulo",
+    "cidades": "SAO PAULO"
+    },
+    {
+    "sigla": "SP",
+    "nome": "São Paulo",
+    "cidades": "SAO PAULO"
+    },
+    {
+    "sigla": "SP",
+    "nome": "São Paulo",
+    "cidades": "SAO PAULO"
+    },
+    {
+    "sigla": "SP",
+    "nome": "São Paulo",
+    "cidades": "SAO PAULO"
+    },
+    {
+    "sigla": "SP",
+    "nome": "São Paulo",
+    "cidades": "SAO PAULO"
+    },
+    {
+    "sigla": "SP",
+    "nome": "São Paulo",
+    "cidades": "SAO PAULO"
+    },
+    {
+    "sigla": "SP",
+    "nome": "São Paulo",
+    "cidades": "SAO PAULO"
+    },
+    {
+    "sigla": "SP",
+    "nome": "São Paulo",
+    "cidades": "SAO VICENTE"
+    },
+    {
+    "sigla": "SP",
+    "nome": "São Paulo",
+    "cidades": "SERTAOZINHO"
+    },
+    {
+    "sigla": "SP",
+    "nome": "São Paulo",
+    "cidades": "SOROCABA"
+    },
+    {
+    "sigla": "SP",
+    "nome": "São Paulo",
+    "cidades": "SUMARE"
+    },
+    {
+    "sigla": "SP",
+    "nome": "São Paulo",
+    "cidades": "SUZANO"
+    },
+    {
+    "sigla": "SP",
+    "nome": "São Paulo",
+    "cidades": "SUZANO"
+    },
+    {
+    "sigla": "SP",
+    "nome": "São Paulo",
+    "cidades": "TATUI"
+    },
+    {
+    "sigla": "SP",
+    "nome": "São Paulo",
+    "cidades": "TAUBATE"
+    },
+    {
+    "sigla": "SP",
+    "nome": "São Paulo",
+    "cidades": "TAUBATE"
+    },
+    {
+    "sigla": "SP",
+    "nome": "São Paulo",
+    "cidades": "TAUBATE"
+    },
+    {
+    "sigla": "SP",
+    "nome": "São Paulo",
+    "cidades": "VALINHOS"
+    },
+    {
+    "sigla": "SP",
+    "nome": "São Paulo",
+    "cidades": "VARZEA PAULISTA"
+    },
+    {
+    "sigla": "SP",
+    "nome": "São Paulo",
+    "cidades": "VOTORANTIM"
+    },
+    {
+    "sigla": "SP",
+    "nome": "São Paulo",
+    "cidades": "VOTUPORANGA"
+    }
+]
